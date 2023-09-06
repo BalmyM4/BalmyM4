@@ -5,7 +5,7 @@
 </div>
 
 <br>
-<img src="images/akali-removebg-preview.png" align="right" width="25%" />
+<img src="images/akali_star.png" align="right" width="25%" />
 <img src="images/samira_soul_figther2.png" align="left" width="20%" />
 
 # <p align="center">✨ Hello, I'm Gabriel. ✨</p>
@@ -93,4 +93,25 @@
 - The first champion I played was Kha'Six 🪳.
 - The first skin I got was Wild Warwick 🐺.
 
-  
+  ## <p align="center"> 🔥❤️‍🔥😍 My PROTECO crushes: 😍❤️‍🔥🔥</p>
+
+<p>
+  	<img src="gif/pingu.gif" align = "right" width="30%"  />
+	<img src="gif/pingu.gif" align = "left" width="30%"  />
+</p>
+
+- ❤️ Papi [Daniel] "Son mis achichincles"
+- 🧡 Papi [Arthur] "Enfrijoñada de frijol"
+- 💛 Papi [Deivi] "Oooooh sí"
+- 💚 Papi [John] "Me caen bien, no sé porqué"
+- 💙 Papi [Alan] PROTECO crush de todos
+- 💜 Papi [Brian] "pROducCiOooOoOn!!!"
+
+[Daniel]:https://github.com/DanielGarcia654
+[Arthur]:https://github.com/EnfrijoladaDeFrijol
+[Deivi]:https://github.com/se2510
+[John]:https://github.com/JohnKun136NVCP
+[Alan]:https://github.com/AlanCarrascom
+[Brian]:https://github.com/jassiel2911
+
+
