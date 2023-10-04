@@ -101,7 +101,7 @@
 </p>
 
 - ❤️ Papi [Daniel] "Son mis achichincles"
-- 🧡 Papi [Arthur] "Enfrijoñada de frijol"
+- 🧡 Papi [Arthur] "Enfrijolada de frijol"
 - 💛 Papi [Deivi] "Oooooh sí"
 - 💚 Papi [John] "Me caen bien, no sé porqué"
 - 💙 Papi [Alan] PROTECO crush de todos
