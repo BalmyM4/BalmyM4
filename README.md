@@ -55,7 +55,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=c,python,js,java,git,linux&perline=3" width="300" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,java,git,linux,bash,html,css&perline=3" width="300" />
   </a>
 </p>
 
